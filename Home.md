@@ -3,11 +3,18 @@ This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhf
 This is editable by anyone. If it grows into its own thing, I'll move it off my personal account and onto an organisation account.
 
 ### Community Resources
-* [Subreddit](https://www.reddit.com/r/reinforcementlearning/)
+ * [Subreddit](https://www.reddit.com/r/reinforcementlearning/)
 
 ### Introductions to RL
  * [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
  * Sutton & Barto's *Introduction to Reinforcement Learning* is the standard intro textbook.
+
+### Lecture Videos
+ * [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
+ * [Reinforcement Learning Course | DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+ * [CS285@berkeley - Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+ * [CS234@stanford - Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+ * [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ### Other Discords
  * [RL Group](https://discord.gg/2hz4kzK): previously the most active server, though abandoned by the admin
