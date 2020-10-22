@@ -9,7 +9,7 @@ These resources have been recommended by people on our Discord.
 
 #### Written Introductions
  * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
- * 0👍 Sutton & Barto's *Introduction to Reinforcement Learning* is the standard intro textbook.
+ * 0👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](https://bit.ly/3oiyUEw) is the standard intro textbook.
 
 #### Lecture Videos
  * 0👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
