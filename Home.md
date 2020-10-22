@@ -37,7 +37,7 @@ These resources have been recommended by people on our Discord.
  * Environment for reinforcement-learning algorithmic [trading models](https://github.com/hackthemarket/gym-trading)
  * Framework for training, evaluating, and deploying robust [trading agents](https://github.com/tensortrade-org/tensortrade)
  * [Doom-based AI Research Platform](https://github.com/mwydmuch/ViZDoom) for Reinforcement Learning from Raw Visual Information
- * [OpenSpiel: Collection of RL environments and algorithms](https://github.com/deepmind/open_spiel)
+ * [OpenSpiel](https://github.com/deepmind/open_spiel): Collection of RL environments and algorithms
  * [ns3-gym](https://github.com/tkn-tub/ns3-gym): The Playground for Reinforcement Learning
  * [Reco-gym](https://github.com/criteo-research/reco-gym): A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising
  * [RLBench](https://sites.google.com/view/rlbench): Robot Learning Benchmark
