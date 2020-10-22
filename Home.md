@@ -19,11 +19,24 @@ If you've had a particularly good experience with a resource, edit this page and
 ### Reference Implementations
  * 0👍 [Denny Britz's RL implementations](https://github.com/dennybritz/reinforcement-learning) of foundational RL algorithms.
 
+### External Resources
+The libraries, tools, environments and implementations below have been mentioned or endorsed by members of our Discord channel.
+#### Applied
+Libraries, tools, environments, etc.
+
+#### Academic
+Research papers, articles, conference talks/presentations, etc.
+
 ### Homegrown Resources
-The libraries and implementations below are written by people from our Discord. The advantage of these resources is that you can ask the author questions about them! 
+The libraries, tools, environments and implementations below are written by people from our Discord. The advantage of these resources is that you can ask the author questions about them! 
+#### Applied
+Libraries, tools, environments, etc.
 
 * [RL Lib](https://github.com/DarylRodrigo/rl_lib)
 * [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/)
+
+#### Academic
+Research papers, articles, conference talks/presentations, etc.
 
 ### Other Communities
  * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
