@@ -55,7 +55,7 @@ These resources have been recommended by people on our Discord.
  * [endtoendAI](https://www.endtoend.ai/envs/): compilation of RL environments
  * [List of environments and competitions for RL and AI training](https://github.com/dbobrenko/ai-learning-environments)
  * OpenAI Gym: packaged with Gym, [official OpenAI environments](https://github.com/openai/gym/blob/master/docs/environments.md), and third party environment
- * [RL environment list](https://github.com/clvrai/awesome-rl-envs)
+ * [Awesome RL environment list](https://github.com/clvrai/awesome-rl-envs)
 
 ### Homegrown Resources
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
