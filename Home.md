@@ -54,7 +54,7 @@ These resources have been recommended by people on our Discord.
  * [MiniGrid](https://github.com/maximecb/gym-minigrid): Minimalistic Gridworld Environment
  * [endtoendAI](https://www.endtoend.ai/envs/): compilation of RL environments
  * [List of environments and competitions for RL and AI training](https://github.com/dbobrenko/ai-learning-environments)
- * OpenAI Gym: packaged with Gym, [official OpenAI environments](https://github.com/openai/gym/blob/master/docs/environments.md), and third party environment
+ * [Official OpenAI environments](https://github.com/openai/gym/blob/master/docs/environments.md), and third party environments
  * [Awesome RL environment list](https://github.com/clvrai/awesome-rl-envs)
 
 ### Homegrown Resources
