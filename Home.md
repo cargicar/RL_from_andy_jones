@@ -25,8 +25,8 @@ These resources have been recommended by people on our Discord.
 ### Homegrown Resources
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
 
-* [RL Lib](https://github.com/DarylRodrigo/rl_lib)
-* [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/)
+* [RL Lib](https://github.com/DarylRodrigo/rl_lib), by @-D-
+* [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/), by @aylmao
 
 ### Other Communities
  * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
