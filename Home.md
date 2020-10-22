@@ -2,15 +2,12 @@ This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhf
 
 This is editable by anyone. If it grows into its own thing, I'll move it off my personal account and onto an organisation account.
 
-## Community Resources
- * [Subreddit](https://www.reddit.com/r/reinforcementlearning/)
-
 ## Educational Resources
 
 ### Introductions to RL
  * [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
  * Sutton & Barto's *Introduction to Reinforcement Learning* is the standard intro textbook.
- * A Repo by [Denny Britz](https://github.com/dennybritz/reinforcement-learning) for practical code implementations of basic foundational RL algorithms (For ex: DP, MC, TD etc.)
+ * [Denny Britz's RL implementations](https://github.com/dennybritz/reinforcement-learning) of basic foundational RL algorithms.
 
 ### Lecture Videos
  * [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
@@ -20,17 +17,14 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
  * [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
  * [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)(have heard good things about it on reddit)
 
-## Community projects
-
-### General RL Library Implementations
-_This sections hosts libraries or common implementations of reinforcement learning algorithms eg (DQN & variants, PPO, A2C etc) made by members of the community. It is generally agreed within the community that when learning it is always helpful to have reference code to give ideas or examples - the purpose of this section is to provide those, but written by members of the community so that the author is available to answer questions. By adding your project here you are agreeing to help other members (with a limited capacity) to understand what you've built and how it works._
+### Homegrown Resources
+The libraries and implementations below are written by people from our Discord. The advantage of these resources is that you can ask the author questions about them! 
 
 * [RL Lib](https://github.com/DarylRodrigo/rl_lib)
 * [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/)
 
-## Misc
-
-### Other Discords
+### Other Communities
+ * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
  * [RL Group](https://discord.gg/2hz4kzK): previously the most active server, though abandoned by the admin
  * [Artificial Intelligence](https://discord.gg/gFCT9jm): extremely large, has an RL channel
  * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): a bit less active than RL Group, though apparently has a more active private channel.
