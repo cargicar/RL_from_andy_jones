@@ -26,6 +26,7 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
 _This sections hosts libraries or common implementations of reinforcement learning algorithms eg (DQN & variants, PPO, A2C etc) made by members of the community. It is generally agreed within the community that when learning it is always helpful to have reference code to give ideas or examples - the purpose of this section is to provide those, but written by members of the community so that the author is available to answer questions. By adding your project here you are agreeing to help other members (with a limited capacity) to understand what you've built and how it works._
 
 * [RL Lib](https://github.com/DarylRodrigo/rl_lib)
+* [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/)
 
 ## Misc
 
