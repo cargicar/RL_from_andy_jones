@@ -34,8 +34,8 @@ These resources have been recommended by people on our Discord.
  * [osim-rl](http://osim-rl.stanford.edu/): Reinforcement learning with musculoskeletal models in OpenSim
  * [Project Malmö](https://github.com/Microsoft/malmo): platform for Artificial Intelligence experimentation and research built on top of Minecraft
  * [Multi-agent particle environment](https://github.com/openai/multiagent-particle-envs) used in the paper Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
- * Environment for reinforcement-learning algorithmic [trading models](https://github.com/hackthemarket/gym-trading)
- * Framework for training, evaluating, and deploying robust [trading agents](https://github.com/tensortrade-org/tensortrade)
+ * [Environment](https://github.com/hackthemarket/gym-trading) for reinforcement-learning algorithmic trading models
+ * [Framework](https://github.com/tensortrade-org/tensortrade) for training, evaluating, and deploying robust trading agents
  * [Doom-based AI Research Platform](https://github.com/mwydmuch/ViZDoom) for Reinforcement Learning from Raw Visual Information
  * [OpenSpiel](https://github.com/deepmind/open_spiel): Collection of RL environments and algorithms
  * [ns3-gym](https://github.com/tkn-tub/ns3-gym): The Playground for Reinforcement Learning
