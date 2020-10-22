@@ -10,6 +10,7 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
 ### Introductions to RL
  * [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
  * Sutton & Barto's *Introduction to Reinforcement Learning* is the standard intro textbook.
+ * A Repo by [Denny Britz](https://github.com/dennybritz/reinforcement-learning) for practical code implementations of basic foundational RL algorithms (For ex: DP, MC, TD etc.)
 
 ### Lecture Videos
  * [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
