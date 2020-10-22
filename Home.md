@@ -2,30 +2,48 @@ This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhf
 
 This is editable by anyone. If it grows into its own thing, I'll move it off my personal account and onto an organisation account.
 
-If you've had a particularly good experience with a resource, edit this page and increment the 👍.
 
-### General Resources
-These resources have been recommended by people on our Discord.
+## Things We Recommend
+These resources are things we have first-hand experience of and can testify to the quality of.
+
+If you've had a good experience with a resource, edit this page and increment the 👍. Feel free to move stuff from the things-we-found section up to here if you've personally had a good experience with it.
 
 #### Written Introductions
  * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
- * 0👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](https://bit.ly/3oiyUEw) is the standard intro textbook.
+ * 1👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](https://bit.ly/3oiyUEw) is the standard intro textbook.
 
 #### Lecture Videos
- * 0👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
- * 0👍 [Reinforcement Learning Course | DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
- * 0👍 [CS285@berkeley - Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
- * 0👍 [CS234@stanford - Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
- * 0👍 [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+ * 1👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 1👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
 
-#### Reference Implementations
- * 0👍 [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning) of basic RL algorithms.
- * 0👍 [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), single-file implementations of basic RL algorithms.
+#### Miscellaneous
+ * 1👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
+ * 1👍 [RL Subreddit](https://www.reddit.com/r/reinforcementlearning/), the main hub for the RL community
+
+## Things We Made
+These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
+
+* [RL Lib](https://github.com/DarylRodrigo/rl_lib), by @-D-
+* [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/), by @aylmao
+
+## Things We Found
+This is a broad-strokes collection of things we've found in our journey through RL that we think might be useful to others. It is much more lightly curated than the other sections.
+
+#### Lecture Videos
+ * [Reinforcement Learning Course | DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+ * [CS285@berkeley - Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+ * [CS234@stanford - Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+ * [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+### Other Communities
+ * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
+ * [RL Group](https://discord.gg/2hz4kzK): previously the most active server, though abandoned by the admin
+ * [Artificial Intelligence](https://discord.gg/gFCT9jm): extremely large, has an RL channel
+ * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): a bit less active than RL Group, though apparently has a more active private channel.
+ * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
 
 #### Miscellaneous
- * 0👍 [University of Alberta simple RL algorithm flow chart](https://cdn.discordapp.com/attachments/765294874832273422/768753225783836682/rl_algorithms_diagram.png)
- * 0👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning)
+ * [University of Alberta simple RL algorithm flow chart](https://cdn.discordapp.com/attachments/765294874832273422/768753225783836682/rl_algorithms_diagram.png)
 
 #### RL Environments
  * [OpenAI Gym](https://gym.openai.com/)
@@ -57,7 +75,7 @@ These resources have been recommended by people on our Discord.
  * [Official OpenAI environments](https://github.com/openai/gym/blob/master/docs/environments.md), and third party environments
  * [Awesome RL environment list](https://github.com/clvrai/awesome-rl-envs)
 
-#### RL Frameworks
+#### RL Frameworks & Reference Implementations
  * [OpenAI Baselines](https://github.com/openai/baselines)
  * [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
  * [Stable Baselines in Pytorch](https://stable-baselines3.readthedocs.io/en/master/)
@@ -66,19 +84,9 @@ These resources have been recommended by people on our Discord.
  * [Framework for training, evaluating, and deploying robust trading agents](https://github.com/tensortrade-org/tensortrade)
  * [RLBench: Robot Learning Benchmark](https://sites.google.com/view/rlbench)
  * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
+ * [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning) of basic RL algorithms.
+ * [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), single-file implementations of basic RL algorithms.
 
-### Homegrown Resources
-These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
-
-* [RL Lib](https://github.com/DarylRodrigo/rl_lib), by @-D-
-* [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/), by @aylmao
-
-### Other Communities
- * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
- * [RL Group](https://discord.gg/2hz4kzK): previously the most active server, though abandoned by the admin
- * [Artificial Intelligence](https://discord.gg/gFCT9jm): extremely large, has an RL channel
- * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): a bit less active than RL Group, though apparently has a more active private channel.
- * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
 
 ### Future considerations
  * Split resources into academic and applied
