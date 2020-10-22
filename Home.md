@@ -39,6 +39,8 @@ These resources have been *written* by people on our Discord. The advantage of t
 
 * [RL Lib](https://github.com/DarylRodrigo/rl_lib), by @-D-
 * [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/), by @aylmao
+* [Hindsight Experience Replay research](https://github.com/jscriptcoder/Hindsight-Experience-Replay), and [article](https://medium.com/@jscriptcoder/yet-another-hindsight-experience-replay-backstory-4285c43ff168), by @jscriptcoder
+* [Upside-Down RL research](https://github.com/jscriptcoder/Upside-Down-Reinforcement-Learning), and [article](https://medium.com/@jscriptcoder/demystifying-upside-down-reinforcement-learning-a-k-a-%EA%93%A4-b7bd4214b33f), by @jscriptcoder
 
 ## Things We Found
 This is a broad-strokes collection of things we've found in our journey through RL that we think might be useful to others. It is much more lightly curated than the other sections.
