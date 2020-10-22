@@ -30,31 +30,31 @@ These resources have been recommended by people on our Discord.
 #### RL Environments
  * [OpenAI Gym](https://gym.openai.com/)
  * [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)
- * [PyBullet Gymperium: Open-source implementations of OpenAI Gym MuJoCo environments](https://github.com/benelot/pybullet-gym)
- * [osim-rl: Reinforcement learning with musculoskeletal models in OpenSim](http://osim-rl.stanford.edu/)
- * [Project Malmö: platform for Artificial Intelligence experimentation and research built on top of Minecraft](https://github.com/Microsoft/malmo)
- * [Multi-agent particle environment used in the paper Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://github.com/openai/multiagent-particle-envs)
- * [Environment for reinforcement-learning algorithmic trading models](https://github.com/hackthemarket/gym-trading)
- * [Framework for training, evaluating, and deploying robust trading agents](https://github.com/tensortrade-org/tensortrade)
- * [Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information](https://github.com/mwydmuch/ViZDoom)
+ * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym): Open-source implementations of OpenAI Gym MuJoCo environments
+ * [osim-rl](http://osim-rl.stanford.edu/): Reinforcement learning with musculoskeletal models in OpenSim
+ * [Project Malmö](https://github.com/Microsoft/malmo): platform for Artificial Intelligence experimentation and research built on top of Minecraft
+ * [Multi-agent particle environment](https://github.com/openai/multiagent-particle-envs) used in the paper Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+ * Environment for reinforcement-learning algorithmic [trading models](https://github.com/hackthemarket/gym-trading)
+ * Framework for training, evaluating, and deploying robust [trading agents](https://github.com/tensortrade-org/tensortrade)
+ * [Doom-based AI Research Platform](https://github.com/mwydmuch/ViZDoom) for Reinforcement Learning from Raw Visual Information
  * [OpenSpiel: Collection of RL environments and algorithms](https://github.com/deepmind/open_spiel)
- * [ns3-gym: The Playground for Reinforcement Learning](https://github.com/tkn-tub/ns3-gym)
- * [Reco-gym: A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising](https://github.com/criteo-research/reco-gym)
- * [RLBench: Robot Learning Benchmark](https://sites.google.com/view/rlbench)
+ * [ns3-gym](https://github.com/tkn-tub/ns3-gym): The Playground for Reinforcement Learning
+ * [Reco-gym](https://github.com/criteo-research/reco-gym): A Reinforcement Learning Environment for the problem of Product Recommendation in Online Advertising
+ * [RLBench](https://sites.google.com/view/rlbench): Robot Learning Benchmark
  * [OpenAI Gym trading environment](https://github.com/AminHP/gym-anytrading)
- * [Sairen - OpenAI Gym Reinforcement Learning Environment for the Stock Market](https://doctorj.gitlab.io/sairen/)
- * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
- * [Voyage Deepdrive: self-driving simulator](https://deepdrive.voyage.auto/)
- * [CARLA: Open-source simulator for autonomous driving research](http://carla.org/)
- * [Habitat: A simulation platform for research in embodied AI](https://aihabitat.org/)
- * [MineRL: Towards AI in Minecraft](https://minerl.io/)
- * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home)
+ * [Sairen](https://doctorj.gitlab.io/sairen/): OpenAI Gym Reinforcement Learning Environment for the Stock Market
+ * [Meta-World](https://meta-world.github.io/): A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning
+ * [Voyage Deepdrive](https://deepdrive.voyage.auto/): self-driving simulator
+ * [CARLA](http://carla.org/): Open-source simulator for autonomous driving research
+ * [Habitat](https://aihabitat.org/): A simulation platform for research in embodied AI
+ * [MineRL](https://minerl.io/): Towards AI in Minecraft
+ * [D4RL](https://sites.google.com/view/d4rl/home): Datasets for Deep Data-Driven Reinforcement Learning
  * [Multi-Agent-Learning-Environments](https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment)
- * [PettingZoo: Multi-agent RL environments](https://www.pettingzoo.ml/)
- * [Minimalistic Gridworld Environment (MiniGrid)](https://github.com/maximecb/gym-minigrid)
- * [endtoendAI: compilation of RL environments](https://www.endtoend.ai/envs/)
+ * [PettingZoo](https://www.pettingzoo.ml/): Multi-agent RL environments
+ * [MiniGrid](https://github.com/maximecb/gym-minigrid): Minimalistic Gridworld Environment
+ * [endtoendAI](https://www.endtoend.ai/envs/): compilation of RL environments
  * [List of environments and competitions for RL and AI training](https://github.com/dbobrenko/ai-learning-environments)
- * [OpenAI Gym: packaged with Gym, official OpenAI environments, and third party environment](https://github.com/openai/gym/blob/master/docs/environments.md)
+ * OpenAI Gym: packaged with Gym, [official OpenAI environments](https://github.com/openai/gym/blob/master/docs/environments.md), and third party environment
  * [RL environment list](https://github.com/clvrai/awesome-rl-envs)
 
 ### Homegrown Resources
