@@ -2,6 +2,20 @@ This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhf
 
 This is editable by anyone. If it grows into its own thing, I'll move it off my personal account and onto an organisation account.
 
+## Content of this Wiki
+
+1. [Things We Recommend](#things-we-recommend)
+   - [Written Introductions](#written-introductions)
+   - [Lecture Videos](#lecture-videos)
+   - [Miscellaneous](#miscellaneous)
+2. [Things We Made](#things-we-made)
+3. [Things We Found](#things-we-found)
+   - [Lecture Videos](#lecture-videos-1)
+   - [Other Communities](#other-communities)
+   - [Miscellaneous](#miscellaneous)
+   - [RL Environments](#rl-environments)
+   - [RL Frameworks & Reference Implementations](#rl-frameworks--reference-implementations)
+4. [Future considerations](#future-considerations)
 
 ## Things We Recommend
 These resources are things we have first-hand experience of and can testify to the quality of.
