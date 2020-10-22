@@ -57,6 +57,16 @@ These resources have been recommended by people on our Discord.
  * [Official OpenAI environments](https://github.com/openai/gym/blob/master/docs/environments.md), and third party environments
  * [Awesome RL environment list](https://github.com/clvrai/awesome-rl-envs)
 
+#### RL Frameworks
+ * [OpenAI Baselines](https://github.com/openai/baselines)
+ * [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
+ * [Stable Baselines in Pytorch](https://stable-baselines3.readthedocs.io/en/master/)
+ * [SLM Lab: Modular Deep Reinforcement Learning framework in PyTorch](https://slm-lab.gitbook.io/slm-lab/)
+ * [Reinforcement Learning Coach](https://nervanasystems.github.io/coach/)
+ * [Framework for training, evaluating, and deploying robust trading agents](https://github.com/tensortrade-org/tensortrade)
+ * [RLBench: Robot Learning Benchmark](https://sites.google.com/view/rlbench)
+ * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
+
 ### Homegrown Resources
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
 
