@@ -2,7 +2,7 @@ This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhf
 
 This is editable by anyone. If it grows into its own thing, I'll move it off my personal account and onto an organisation account.
 
-## Educational Resources
+If you've had a particularly good experience with a resource, edit this page and increment the 👍.
 
 ### Introductions to RL
  * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
