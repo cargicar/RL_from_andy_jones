@@ -4,11 +4,14 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
 
 If you've had a particularly good experience with a resource, edit this page and increment the 👍.
 
-### Written Introductions
+### General Resources
+These resources have been recommended by people on our Discord.
+
+#### Written Introductions
  * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
  * 0👍 Sutton & Barto's *Introduction to Reinforcement Learning* is the standard intro textbook.
 
-### Lecture Videos
+#### Lecture Videos
  * 0👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 0👍 [Reinforcement Learning Course | DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
  * 0👍 [CS285@berkeley - Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
@@ -16,13 +19,12 @@ If you've had a particularly good experience with a resource, edit this page and
  * 0👍 [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
  * 1👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
 
-### External Resources
-The libraries, tools, environments and implementations below have been mentioned or endorsed by members of our Discord channel.
 #### Reference Implementations
  * 0👍 [Denny Britz's RL implementations](https://github.com/dennybritz/reinforcement-learning) of foundational RL algorithms.
 
 ### Homegrown Resources
-The libraries, tools, environments and implementations below are written by people from our Discord. The advantage of these resources is that you can ask the author questions about them! 
+These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
+
 * [RL Lib](https://github.com/DarylRodrigo/rl_lib)
 * [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/)
 
