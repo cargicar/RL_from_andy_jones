@@ -51,6 +51,8 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [CS234@stanford - Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
  * [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
  * [RL course by Balaraman Ravindran (IIT Madras)](http://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html)
+ * [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/)
+ * [CS885@UWaterloo Spring 2018 - Reinforcement Learning](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
 
 ### Other Communities
  * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
