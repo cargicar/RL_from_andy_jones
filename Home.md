@@ -33,6 +33,7 @@ If you've had a good experience with a resource, edit this page and increment th
 ### Miscellaneous
  * 1👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
  * 1👍 [RL Subreddit](https://www.reddit.com/r/reinforcementlearning/), the main hub for the RL community
+ * [TalkRL Podcast](https://www.talkrl.com/) is all Reinforcement Learning
 
 ## Things We Made
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
