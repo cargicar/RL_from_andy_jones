@@ -55,6 +55,7 @@ These resources have been recommended by people on our Discord.
 
 #### Miscellaneous
  * 0👍 [University of Alberta simple RL algorithm flow chart](https://cdn.discordapp.com/attachments/765294874832273422/768753225783836682/rl_algorithms_diagram.png)
+ * 0👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning)
 
 ### Homegrown Resources
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
