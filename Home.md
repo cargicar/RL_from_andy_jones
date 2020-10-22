@@ -8,15 +8,15 @@ These resources are things we have first-hand experience of and can testify to t
 
 If you've had a good experience with a resource, edit this page and increment the 👍. Feel free to move stuff from the things-we-found section up to here if you've personally had a good experience with it.
 
-#### Written Introductions
+### Written Introductions
  * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
  * 1👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](https://bit.ly/3oiyUEw) is the standard intro textbook.
 
-#### Lecture Videos
+### Lecture Videos
  * 1👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 1👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
 
-#### Miscellaneous
+### Miscellaneous
  * 1👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
  * 1👍 [RL Subreddit](https://www.reddit.com/r/reinforcementlearning/), the main hub for the RL community
 
@@ -29,7 +29,7 @@ These resources have been *written* by people on our Discord. The advantage of t
 ## Things We Found
 This is a broad-strokes collection of things we've found in our journey through RL that we think might be useful to others. It is much more lightly curated than the other sections.
 
-#### Lecture Videos
+### Lecture Videos
  * [Reinforcement Learning Course | DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
  * [CS285@berkeley - Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
  * [CS234@stanford - Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
@@ -42,10 +42,10 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): a bit less active than RL Group, though apparently has a more active private channel.
  * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
 
-#### Miscellaneous
+### Miscellaneous
  * [University of Alberta simple RL algorithm flow chart](https://cdn.discordapp.com/attachments/765294874832273422/768753225783836682/rl_algorithms_diagram.png)
 
-#### RL Environments
+### RL Environments
  * [OpenAI Gym](https://gym.openai.com/)
  * [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)
  * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym): Open-source implementations of OpenAI Gym MuJoCo environments
@@ -75,7 +75,7 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [Official OpenAI environments](https://github.com/openai/gym/blob/master/docs/environments.md), and third party environments
  * [Awesome RL environment list](https://github.com/clvrai/awesome-rl-envs)
 
-#### RL Frameworks & Reference Implementations
+### RL Frameworks & Reference Implementations
  * [OpenAI Baselines](https://github.com/openai/baselines)
  * [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
  * [Stable Baselines in Pytorch](https://stable-baselines3.readthedocs.io/en/master/)
@@ -88,5 +88,5 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), single-file implementations of basic RL algorithms.
 
 
-### Future considerations
+## Future considerations
  * Split resources into academic and applied
