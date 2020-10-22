@@ -6,7 +6,7 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
 ## Things We Recommend
 These resources are things we have first-hand experience of and can testify to the quality of.
 
-If you've had a good experience with a resource, edit this page and increment the 👍. Feel free to move stuff from the things-we-found section up to here if you've personally had a good experience with it.
+If you've had a good experience with a resource, edit this page and increment the 👍. Feel free to move stuff from the things-we-found section up to here if you've personally had a good experience with it. If you're uncertain, come discuss it in #wiki first.
 
 ### Written Introductions
  * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
