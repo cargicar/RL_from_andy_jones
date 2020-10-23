@@ -7,12 +7,14 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
 1. [Things We Recommend](#things-we-recommend)
    - [Written Introductions](#written-introductions)
    - [Lecture Videos](#lecture-videos)
+   - [Blogs](#blogs)
    - [Miscellaneous](#miscellaneous)
 2. [Things We Made](#things-we-made)
 3. [Things We Found](#things-we-found)
    - [Lecture Videos](#lecture-videos-1)
+   - [Blogs](#blogs-1)
    - [Other Communities](#other-communities)
-   - [Miscellaneous](#miscellaneous)
+   - [Miscellaneous](#miscellaneous-1)
    - [RL Environments](#rl-environments)
    - [RL Frameworks & Reference Implementations](#rl-frameworks--reference-implementations)
 4. [Future considerations](#future-considerations)
@@ -30,10 +32,13 @@ If you've had a good experience with a resource, edit this page and increment th
  * 1👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 1👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
 
-### Miscellaneous
+### Blogs
  * 1👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
+ * 1👍 Excellent [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530) by [Jonathan Hui](https://medium.com/@jonathan_hui)
+
+### Miscellaneous
  * 1👍 [RL Subreddit](https://www.reddit.com/r/reinforcementlearning/), the main hub for the RL community
- * [TalkRL Podcast](https://www.talkrl.com/) is all Reinforcement Learning
+ * 1👍 [TalkRL Podcast](https://www.talkrl.com/) is all about Reinforcement Learning
 
 ## Things We Made
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
@@ -55,6 +60,10 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [RL course by Balaraman Ravindran (IIT Madras)](http://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html)
  * [CS 330: Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/)
  * [CS885@UWaterloo Spring 2018 - Reinforcement Learning](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/)
+
+### Blogs
+ * [BAIR](https://bair.berkeley.edu/blog/) Berkeley Artificial Intelligence Research.
+ * [RL Weekly](https://v1.endtoend.ai/rl-weekly/) is a weekly newsletter highlighting important progress in reinforcement learning in research or industry.
 
 ### Other Communities
  * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
