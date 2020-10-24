@@ -3,7 +3,7 @@ This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhf
 This is editable by anyone. If it grows into its own thing, I'll move it off my personal account and onto an organisation account.
 
 ## Content of this Wiki
-
+0. [First Steps](#first-steps)
 1. [Things We Recommend](#things-we-recommend)
    - [Written Introductions](#written-introductions)
    - [Lecture Videos](#lecture-videos)
@@ -19,6 +19,11 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
    - [RL Frameworks & Reference Implementations](#rl-frameworks--reference-implementations)
 4. [Future considerations](#future-considerations)
 
+## First Steps
+If you're entirely new to reinforcement learning, the best thing to do is to poke through the resources listed in [Written Introductions](#written-introductions) and [Video Introductions](#video-introductions) and see which ones suit your learning style.
+
+All of these cover roughly the same material, and all have roughly the same prerequisites: you should be comfortable with probability, statistics, linear algebra and calculus at a first-year-undergrad level, and you should be comfortable with programming in Python. Some amount of machine learning experience is nice, like knowing how NNs are usually structured and how gradient descent works, but that knowledge is more easily Google-able on the fly than the maths and programming knowledge.
+
 ## Things We Recommend
 These resources are things we have first-hand experience of and can testify to the quality of.
 
@@ -27,14 +32,14 @@ If you've had a good experience with a resource, edit this page and increment th
 ### Written Introductions
  * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
  * 1👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](https://bit.ly/3oiyUEw) is the standard intro textbook.
+ * 1👍 [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530) by [Jonathan Hui](https://medium.com/@jonathan_hui)
 
-### Lecture Videos
+### Video Introductions
  * 1👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 1👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
 
 ### Blogs
  * 1👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
- * 1👍 Excellent [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530) by [Jonathan Hui](https://medium.com/@jonathan_hui)
 
 ### Miscellaneous
  * 1👍 [RL Subreddit](https://www.reddit.com/r/reinforcementlearning/), the main hub for the RL community
