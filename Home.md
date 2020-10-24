@@ -24,7 +24,7 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
 
 All of these cover roughly the same material, and all have roughly the same prerequisites: you should be comfortable with probability, statistics, linear algebra and multivariable calculus at a first-year-undergrad level, and you should be comfortable with programming in Python. It's also useful to have some basic familiarity with deep learning.
 
-**If you're entirely new to probability/statistics/linear algebra/multivariable calculus**, we'll make a weak recommendation for Khan Academy's [lin alg](https://www.khanacademy.org/math/linear-algebra) and [stats](https://www.khanacademy.org/math/statistics-probability) courses, or for the [Mathematics for Machine Learning](https://mml-book.github.io/) book. These resources suit a lot of people well.
+**If you're entirely new to probability/statistics/linear algebra/multivariable calculus**, we'll make a weak recommendation for Khan Academy's [stats](https://www.khanacademy.org/math/statistics-probability)/[lin alg](https://www.khanacademy.org/math/linear-algebra)/[calc](https://www.khanacademy.org/math/multivariable-calculus) courses, or for the [Mathematics for Machine Learning](https://mml-book.github.io/) book. These resources suit a lot of people well.
 
 **If you're entirely new to programming in Python**, [the /r/python wiki has a range of introductory resources](https://www.reddit.com/r/python/wiki/index#wiki_online_books_and_resources) and we'll make a weak recommendation for [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) as a book that suits many people well. 
 
