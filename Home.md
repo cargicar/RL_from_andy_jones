@@ -20,9 +20,15 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
 4. [Future considerations](#future-considerations)
 
 ## First Steps
-If you're entirely new to reinforcement learning, the best thing to do is to poke through the resources listed in [Written Introductions](#written-introductions) and [Video Introductions](#video-introductions) and see which ones suit your learning style.
+**If you're entirely new to reinforcement learning**, the best thing to do is to poke through the resources listed in [Written Introductions](#written-introductions) and [Video Introductions](#video-introductions) and see which ones suit your learning style.
 
 All of these cover roughly the same material, and all have roughly the same prerequisites: you should be comfortable with probability, statistics, linear algebra and multivariable calculus at a first-year-undergrad level, and you should be comfortable with programming in Python. Some amount of machine learning experience is nice, like knowing how NNs are usually structured and how gradient descent works, but that knowledge is more easily Google-able on the fly than the maths and programming knowledge.
+
+**If you're entirely new to machine learning as a whole**, [the /r/ML wiki has a huge pile of resources for you to look through](https://www.reddit.com/r/MachineLearning/wiki/index), and we can specifically point at [fast.ai](https://course.fast.ai/) as a course that suits many people well. 
+
+**If you're entirely new to probability/statistics/linear algebra/multivariable calculus**, $FILL_IN_RECOMMENDATION_HERE.
+
+**If you're entirely new to programming in Python**, $FILL_IN_RECOMMENDATION_HERE.
 
 ## Things We Recommend
 These resources are things we have first-hand experience of and can testify to the quality of.
