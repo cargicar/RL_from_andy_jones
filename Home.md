@@ -26,9 +26,9 @@ All of these cover roughly the same material, and all have roughly the same prer
 
 **If you're entirely new to probability/statistics/linear algebra/multivariable calculus**, we'll make a weak recommendation for [Khan](https://www.khanacademy.org/math/linear-algebra) [Academy](https://www.khanacademy.org/math/statistics-probability) or [Mathematics for Machine Learning](https://mml-book.github.io/) as resources that suit a lot of people well.
 
-**If you're entirely new to programming in Python**, [the /r/python wiki is a good hub to browse through](https://www.reddit.com/r/python/wiki/index#wiki_online_books_and_resources) and we'll make a weak recommendation for [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) as a book that suits many people well. 
+**If you're entirely new to programming in Python**, [the /r/python wiki has a range of introductory resources](https://www.reddit.com/r/python/wiki/index#wiki_online_books_and_resources) and we'll make a weak recommendation for [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) as a book that suits many people well. 
 
-**If you're entirely new to deep learning**, [the /r/ML wiki is a good hub to browse through](https://www.reddit.com/r/MachineLearning/wiki/index), and we'll make a weak recommendation for [fast.ai](https://course.fast.ai/) as a course that suits many people well. 
+**If you're entirely new to deep learning**, [the /r/ML wiki has a range of introductory resources](https://www.reddit.com/r/MachineLearning/wiki/index), and we'll make a weak recommendation for [fast.ai](https://course.fast.ai/) as a course that suits many people well. 
 
 
 ## Things We Recommend
