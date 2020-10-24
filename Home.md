@@ -24,11 +24,11 @@ This is editable by anyone. If it grows into its own thing, I'll move it off my 
 
 All of these cover roughly the same material, and all have roughly the same prerequisites: you should be comfortable with probability, statistics, linear algebra and multivariable calculus at a first-year-undergrad level, and you should be comfortable with programming in Python. It's also useful to have some basic familiarity with deep learning.
 
-**If you're entirely new to probability/statistics/linear algebra/multivariable calculus**, $FILL_IN_RECOMMENDATION_HERE.
+**If you're entirely new to probability/statistics/linear algebra/multivariable calculus**, we'll make a weak recommendation for [Khan](https://www.khanacademy.org/math/linear-algebra) [Academy](https://www.khanacademy.org/math/statistics-probability) or [Mathematics for Machine Learning](https://mml-book.github.io/) as resources that suit a lot of people well.
 
-**If you're entirely new to programming in Python**, $FILL_IN_RECOMMENDATION_HERE.
+**If you're entirely new to programming in Python**, [the /r/python wiki is a good hub to browse through](https://www.reddit.com/r/python/wiki/index#wiki_online_books_and_resources) and we'll make a weak recommendation for [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) as a book that suits many people well. 
 
-**If you're entirely new to deep learning**, [the /r/ML wiki has a huge pile of resources for you to look through](https://www.reddit.com/r/MachineLearning/wiki/index), and we can specifically point at [fast.ai](https://course.fast.ai/) as a course that suits many people well. 
+**If you're entirely new to deep learning**, [the /r/ML wiki has a huge pile of resources for you to look through](https://www.reddit.com/r/MachineLearning/wiki/index), and we'll make a weak recommendation for [fast.ai](https://course.fast.ai/) as a course that suits many people well. 
 
 
 ## Things We Recommend
