@@ -129,6 +129,7 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
  * [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning) of basic RL algorithms.
  * [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), single-file implementations of basic RL algorithms.
+ * [RLlib by Ray](https://docs.ray.io/en/master/rllib.html)
 
 
 ## TODO
