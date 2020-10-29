@@ -62,6 +62,8 @@ These resources have been *written* by people on our Discord. The advantage of t
 * [GraBZero](https://github.com/instance01/GRAB0/), by @aylmao
 * [Open RL Benchmark](http://cleanrl.costa.sh/), and [Gym-MicroRTS](https://github.com/vwxyzjn/gym-microrts) by @Costa
 
+There're also our [reference messages](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki/Reference-Messages). 
+
 ## Things We Found
 This is a broad-strokes collection of things we've found in our journey through RL that we think might be useful to others. It is much more lightly curated than the other sections.
 
