@@ -8,7 +8,7 @@ i'd really like to see an in-depth article on debugging RL, although i understan
 - https://www.reddit.com/r/reinforcementlearning/comments/9sh77q/what_are_your_best_tips_for_debugging_rl_problems/e8p2as5/
 - https://www.reddit.com/r/reinforcementlearning/comments/iudzsn/help_trying_to_implement_policy_gradient_in/g5ktdvn/?context=3
 
-### [On JAX frontends](https://discord.com/channels/765294874832273419/765939632327229440/771864560931962921), @inoryy
+### [On JAX & JAX frontends](https://discord.com/channels/765294874832273419/765939632327229440/771864560931962921), @inoryy
 They're done by different teams inside Alphabet to match their different use cases, e.g. Flax by Google Research and Haiku by DeepMind. They are all actively used and developed internally with a clear roadmap for '21 at least. Your best bet is to look through examples of all 3 and decide for yourself. Of course if you're interested in using acme then Haiku is probably a good idea.
 
 JAX should work well on GPUs but its bread and butter are TPU workloads.
