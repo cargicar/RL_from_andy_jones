@@ -82,10 +82,11 @@ This is a broad-strokes collection of things we've found in our journey through 
 
 ### Other Communities
  * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
- * [RL Group](https://discord.gg/2hz4kzK): previously the most active server, though abandoned by the admin
- * [Artificial Intelligence](https://discord.gg/gFCT9jm): extremely large, has an RL channel
- * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): a bit less active than RL Group, though apparently has a more active private channel.
+ * [RL Group](https://discord.gg/2hz4kzK): previously the most active RL server, though abandoned by the admin
+ * [Artificial Intelligence](https://discord.gg/gFCT9jm): an extremely large general AI discussion server, with an RL channel
+ * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): another not-very-active RL discussion server, though apparently has a more active private channel.
  * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
+ * [EleutherAI](https://discord.com/invite/vtRgjbM): their main concern is [replicating GPT-2](https://www.eleuther.ai), but their server has  a lot of good AI safety and scaling discussion.
 
 ### Miscellaneous
  * [University of Alberta simple RL algorithm flow chart](https://cdn.discordapp.com/attachments/765294874832273422/768753225783836682/rl_algorithms_diagram.png)
