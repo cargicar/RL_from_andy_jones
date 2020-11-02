@@ -81,12 +81,14 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [RL Weekly](https://v1.endtoend.ai/rl-weekly/) is a weekly newsletter highlighting important progress in reinforcement learning in research or industry.
 
 ### Other Communities
- * [Subreddit](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community
- * [RL Group](https://discord.gg/2hz4kzK): previously the most active RL server, though abandoned by the admin
- * [Artificial Intelligence](https://discord.gg/gFCT9jm): an extremely large general AI discussion server, with an RL channel
- * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): another not-very-active RL discussion server, though apparently has a more active private channel.
- * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
- * [EleutherAI](https://discord.com/invite/vtRgjbM): their main concern is [replicating GPT-2](https://www.eleuther.ai), but their server has  a lot of good AI safety and scaling discussion.
+ * Active 
+   * [/r/reinforcementlearning](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community.
+   * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
+   * [Artificial Intelligence](https://discord.gg/gFCT9jm): an extremely large general AI discussion server, with an RL channel.
+   * [EleutherAI](https://discord.com/invite/vtRgjbM): their main concern is [replicating GPT-2](https://www.eleuther.ai), but their server has  a lot of good AI safety and scaling discussion.
+ * Inactive
+   * [RL Group](https://discord.gg/2hz4kzK): previously the most active RL server, though now abandoned by the admin
+   * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): another not-very-active RL discussion server, though apparently it has a busier private channel.
 
 ### Miscellaneous
  * [University of Alberta simple RL algorithm flow chart](https://cdn.discordapp.com/attachments/765294874832273422/768753225783836682/rl_algorithms_diagram.png)
