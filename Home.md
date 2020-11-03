@@ -85,7 +85,7 @@ This is a broad-strokes collection of things we've found in our journey through 
    * [/r/reinforcementlearning](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community.
    * [Artificial Intelligence](https://discord.gg/gFCT9jm): an extremely large general AI discussion server, with an RL channel.
    * [EleutherAI](https://discord.com/invite/vtRgjbM): their main concern is [replicating GPT-2](https://www.eleuther.ai), but their server has  a lot of good AI safety and scaling discussion.
-   * [TPU Podcast](https://t.co/ccHAqPgIiZ): another general AI discussion server. Origin of the EleutherAI discord and project.
+   * [TPU Podcast](https://t.co/ccHAqPgIiZ): another general AI discussion server, but with a GAN focus. Origin of the EleutherAI discord and project.
    * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
  * Less-active
    * [RL Group](https://discord.gg/2hz4kzK): previously the most active RL server, though now abandoned by the admin
