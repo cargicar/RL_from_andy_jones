@@ -12,7 +12,7 @@ We have a voice chat every Saturday at 1630 GMT.
 ### Presenter Schedule
 I'll try and keep this rolling one month in advance. If you see a slot free, you're welcome to volunteer yourself - just edit in your Discord handle and a rough topic.
 
-* 21/11/2020:
+* 21/11/2020: Sphinx, Unsupervised Machine Translation.
 * 28/11/2020:
 * 05/12/2020:
 * 12/12/2020:
