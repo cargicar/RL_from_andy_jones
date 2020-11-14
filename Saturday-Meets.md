@@ -9,8 +9,8 @@ We have a voice chat every Saturday at 1630 GMT.
  * There'll be questions at the end, followed by freeform discussion.
  * If you'd like to present in future, just say!
 
-### Schedule
-I'll try and keep this rolling one month in advance. If you see a slot free, you're welcome to volunteer yourself. 
+### Presenter Schedule
+I'll try and keep this rolling one month in advance. If you see a slot free, you're welcome to volunteer yourself - just edit in your Discord handle and a rough topic.
 
 * 21/11/2020:
 * 28/11/2020:
