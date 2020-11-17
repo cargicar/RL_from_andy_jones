@@ -38,7 +38,7 @@ If you've had a good experience with a resource, edit this page and increment th
 
 ### Written Introductions
  * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
- * 1👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](https://bit.ly/3oiyUEw) is the standard intro textbook.
+ * 1👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](http://incompleteideas.net/book/RLbook2020.pdf) is the standard intro textbook.
  * 1👍 [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530) by [Jonathan Hui](https://medium.com/@jonathan_hui)
 
 ### Video Introductions
