@@ -37,13 +37,14 @@ These resources are things we have first-hand experience of and can testify to t
 If you've had a good experience with a resource, edit this page and increment the 👍. Feel free to move stuff from the things-we-found section up to here if you've personally had a good experience with it. If you're uncertain, come discuss it in #wiki first.
 
 ### Written Introductions
- * 1👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
- * 1👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](http://incompleteideas.net/book/RLbook2020.pdf) is the standard intro textbook.
+ * 2👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
+ * 2👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](http://incompleteideas.net/book/RLbook2020.pdf) is the standard intro textbook.
  * 1👍 [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530) by [Jonathan Hui](https://medium.com/@jonathan_hui)
 
 ### Video Introductions
- * 1👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
+ * 2👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 1👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
+ * 1👍 [Reinforcement Learning Specialization on Coursera](https://www.coursera.org/specializations/reinforcement-learning) from Martha and David White, professors at UAlberta
 
 ### Blogs
  * 1👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
