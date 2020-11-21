@@ -14,5 +14,5 @@ I'll try and keep this rolling one month in advance. If you see a slot free, you
 
 * 21/11/2020: Sphinx, Unsupervised Machine Translation.
 * 28/11/2020:
-* 05/12/2020:
+* 05/12/2020: Costa, DRL in RTS Games
 * 12/12/2020:
