@@ -10,7 +10,7 @@ We have a voice chat every Saturday at 1630 GMT.
  * If you'd like to present in future, just say!
 
 ### Notes for (potential) presenters
-If you're uneasy about giving talks, this is a great place to practice. Normal attendance is 10-20 people, questions are much more inquisitive than critical, it's voice only, and we've had a wide range of speakers in terms of technical experience. If you're casting around for a topic, a good choice is something niche and which you've been working on recently.
+If you're uneasy about giving talks, this is a great place to practice. Normal attendance is 10-20 people, questions are much more inquisitive than critical, it's voice only, and we've had a wide range of speakers in terms of technical experience. If you're casting around for a topic, a good choice is something you've been working on recently.
 
 ### Presenter Schedule
 I'll try and keep this rolling one month in advance. If you see a slot free, you're welcome to volunteer yourself - just edit in your Discord handle and a rough topic.
