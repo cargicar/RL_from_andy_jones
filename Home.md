@@ -45,13 +45,13 @@ If you've had a good experience with a resource, edit this page and increment th
  * 2👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 1👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
  * 1👍 [Reinforcement Learning Specialization on Coursera](https://www.coursera.org/specializations/reinforcement-learning) from Martha and David White, professors at UAlberta
-
-### Blogs
- * 1👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
+   * Unlike all the other materials listed here, this is not free. Our opinions on paywalled courses are divided, so take this as a qualified recommendation - only go down this route if you have a strong preference for MOOC-style learning. If you don't, any of the other free material is just as good.
 
 ### Miscellaneous
+ * 1👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
  * 1👍 [RL Subreddit](https://www.reddit.com/r/reinforcementlearning/), the main hub for the RL community
  * 1👍 [TalkRL Podcast](https://www.talkrl.com/) is all about Reinforcement Learning
+
 
 ## Things We Made
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
