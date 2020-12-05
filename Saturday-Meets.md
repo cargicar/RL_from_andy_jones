@@ -15,7 +15,7 @@ If you're uneasy about giving talks, this is a great place to practice. Normal a
 ### Presenter Schedule
 I'll try and keep this rolling one month in advance. If you see a slot free, you're welcome to volunteer yourself - just edit in your Discord handle and a rough topic.
 
-* 31/10/2020: andyljones, Scaling Laws in RL 
+* 31/10/2020: andyljones, Scaling Laws in Multiplayer Games 
 * 07/11/2020: Karolis_Ram, Competing in MineRL
 * 14/11/2020: -D-, RL & Climate Change Startups
 * 21/11/2020: Sphinx, Unsupervised Machine Translation.
