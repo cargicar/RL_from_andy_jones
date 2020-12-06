@@ -1,3 +1,5 @@
 If you'd like other people on the Discord to look you up if they're interested in the same thing as you, add your handle below along with a short description of yourself/what you're interested in/what you're working on.
 
 * **andyljones**: I'm an independent researcher, living in London and working on [an RL-based scaling laws project](https://docs.google.com/document/d/1OwniAl1ocnqKHc4jtPVJzemm46q6ZgPVhXhmL2ZDIJw/edit?usp=sharing). Come talk to me about AI alignment, indie research, or about any of my previous projects! [Here's my website](https://andyljones.com/).
+
+* **aylmao | Daniel**: I'm a CS masters student based in Germany. My interests include anything related to [AlphaZero](https://github.com/instance01/GRAB0/) and MCTS based approaches, [emergent behaviour](https://www.mitpressjournals.org/doi/abs/10.1162/isal_a_00226) in intelligent agents and MARL. Contact: [Github](https://github.com/instance01), [Blog](https://blog.xa0.de/list).
