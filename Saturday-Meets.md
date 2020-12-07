@@ -19,8 +19,8 @@ I'll try and keep this rolling one month in advance. If you see a slot free, you
 * 07/11/2020: Karolis_Ram, Competing in MineRL
 * 14/11/2020: -D-, RL & Climate Change Startups
 * 21/11/2020: Sphinx, Unsupervised Machine Translation.
-* 28/11/2020:
+* 28/11/2020: 
 * 05/12/2020: Costa, DRL in RTS Games
-* 12/12/2020:
+* 12/12/2020: Bam4d: Griddly: A platform for AI research in games 
 * 19/12/2020: CireNeikual, Bio-Inspired Online RL
 * 26/12/2020:
