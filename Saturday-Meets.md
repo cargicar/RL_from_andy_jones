@@ -22,5 +22,5 @@ I'll try and keep this rolling one month in advance. If you see a slot free, you
 * 28/11/2020:
 * 05/12/2020: Costa, DRL in RTS Games
 * 12/12/2020:
-* 19/12/2020:
+* 19/12/2020: CireNeikual, Bio-Inspired Online RL
 * 26/12/2020:
