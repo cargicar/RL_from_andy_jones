@@ -7,3 +7,8 @@ If you'd like other people on the Discord to look you up if they're interested i
 * **Ariel**: I'm a PhD student currently in France working on crowd simulation via MARL. In my free time, I like thinking about [abstract nonsense](https://en.wikipedia.org/wiki/Abstract_nonsense) and [functional programming](https://redtachyon.me/post/aoc-haskell/). Also somewhat interested in AI Safety, emergent behaviors, and essentially anything related to situations with lots of agents. [My website with all other social links](https://redtachyon.me)
 
 * **Samuel Schmidgall**: I'm a student at George Mason University doing research in synaptic plasticity-based meta-learning techniques for reinforcement learning. Most of my work is bio-inspired RL including, spiking neural networks, plasticity, neuromodulation, and evolutionary algorithms. If you're interested in my (limited) work check out my scholar (https://scholar.google.com/citations?hl=en&user=bQDooZEAAAAJ), otherwise feel free to dm me in the discord for collabs, or just to chat!
+
+
+* **Shay Ronen**: I'm the founder of http://www.deeptrade.ml , we are building the next generation of zero code trading platform integrated with DL/ML. 
+we are an innovative team of quants with a goal of making ML/DL accessible to a wider range of users.  Our team also built a connector between the popular trading platform metatrader to python language.  can be found on my github https://github.com/TheSnowGuru/ good luck to all.
+ 
