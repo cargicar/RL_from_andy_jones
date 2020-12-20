@@ -26,3 +26,5 @@ I'll try and keep this rolling one month in advance. If you see a slot free, you
 * 26/12/2020: **cancelled due to Christmas**
 * 02/01/2021: CireNeikual, Bio-Inspired Online RL
 * 09/01/2021: Paper discussion (the exact paper is TBD)
+* 16/01/2021:
+* 23/01/2021:
