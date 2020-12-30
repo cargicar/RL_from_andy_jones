@@ -12,3 +12,4 @@ If you'd like other people on the Discord to look you up if they're interested i
 * **Shay Ronen**: I'm the founder of https://www.deeptrade.ml , we are building the next generation of zero code trading platform integrated with DL/ML. 
 we are an innovative team of quants with a goal of making ML/DL accessible to a wider range of users.  Our team also built a connector between the popular trading platform metatrader to python language.  can be found on my github https://github.com/TheSnowGuru/ feel free to dm me in the discord for collabs, or just to chat! Goodluck 🤟
  
+* **Karolis_Ram**: I'm an ex quant, based in UK and doing independent research in RL. [Linkedin](https://www.linkedin.com/in/karolisramanauskas/)
