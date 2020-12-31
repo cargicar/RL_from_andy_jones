@@ -1,6 +1,4 @@
-This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhfNqQv), as described [in the launch post](https://www.reddit.com/r/reinforcementlearning/comments/jawm37/official_reinforcement_learning_discord/). 
-
-This is editable by anyone. If it grows into its own thing, I'll move it off my personal account and onto an organisation account.
+This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhfNqQv).
 
 As well as this main page, there's also a page of [bios of server regulars](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki/People), particularly [useful messages](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki/Reference-Messages) and [details of our Saturday meets](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki/Saturday-Meets). 
 
