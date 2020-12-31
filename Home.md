@@ -24,7 +24,10 @@ As well as this main page, there's also a page of [bios of server regulars](http
 ## First Steps
 **If you're entirely new to reinforcement learning**, the best thing to do is to poke through the resources listed in [Written Introductions](#written-introductions) and [Video Introductions](#video-introductions) and see which ones suit your learning style.
 
-All of these cover roughly the same material, and all have roughly the same prerequisites: you should be comfortable with probability, statistics, linear algebra and multivariable calculus at a first-year-undergrad level, and you should be comfortable with programming in Python. It's also useful to have some basic familiarity with deep learning.
+All of these cover roughly the same material, and all have roughly the same prerequisites: 
+ * you should be comfortable with probability, statistics, linear algebra and multivariable calculus at a first-year-undergrad level, 
+ * you should be comfortable with programming in Python,
+ * you should be familiar with deep learning concepts like convolutions and gradient descent.
 
 **If you're entirely new to probability/statistics/linear algebra/multivariable calculus**, we'll make a weak recommendation for Khan Academy's [stats](https://www.khanacademy.org/math/statistics-probability)/[lin alg](https://www.khanacademy.org/math/linear-algebra)/[calc](https://www.khanacademy.org/math/multivariable-calculus) courses, or for the [Mathematics for Machine Learning](https://mml-book.github.io/) book. These resources suit a lot of people well.
 
