@@ -51,11 +51,11 @@ If you've had a good experience with a resource, edit this page and increment th
 
 ### Written Introductions
  * 3👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
- * 3👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](http://incompleteideas.net/book/RLbook2020.pdf) is the standard intro textbook.
+ * 4👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](http://incompleteideas.net/book/RLbook2020.pdf) is the standard intro textbook.
  * 1👍 [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530) by [Jonathan Hui](https://medium.com/@jonathan_hui)
 
 ### Video Introductions
- * 3👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
+ * 4👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 1👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
  * 2👍 [Reinforcement Learning Specialization on Coursera](https://www.coursera.org/specializations/reinforcement-learning) from Martha and David White, professors at UAlberta
    * Unlike all the other materials listed here, this is not free. Our opinions on paywalled courses are divided, so take this as a qualified recommendation - only go down this route if you have a strong preference for MOOC-style learning. If you don't, any of the other free material is just as good.
