@@ -4,6 +4,7 @@ As well as this main page, there's also a page of particularly [useful messages]
 
 ## Content of this Wiki
 0. [First Steps](#first-steps)
+1. [Debugging Advice](#debugging-advice)
 1. [Things We Recommend](#things-we-recommend)
    - [Written Introductions](#written-introductions)
    - [Lecture Videos](#lecture-videos)
@@ -33,6 +34,15 @@ All of these cover roughly the same material, and all have roughly the same prer
 
 **If you're entirely new to deep learning**, [the /r/ML wiki has a range of introductory resources](https://www.reddit.com/r/MachineLearning/wiki/index), and we'll make a weak recommendation for [fast.ai](https://course.fast.ai/) as a course that suits many people well. 
 
+## Debugging Advice
+These are ordered by length.
+* [Andy Jones's advice](https://andyljones.com/posts/rl-debugging.html)
+* [Amid Fish's advice](http://amid.fish/reproducing-deep-rl)
+* [John Schulman's advice](https://github.com/williamFalcon/DeepRLHacks)
+* [Spinning Up's advice](https://spinningup.openai.com/en/latest/spinningup/spinningup.html#learn-by-doing)
+* [Marcin Gumer's advice](https://www.reddit.com/r/reinforcementlearning/comments/9sh77q/what_are_your_best_tips_for_debugging_rl_problems/e8p2as5/)
+
+If you go through these and you're still stuck, come ask for help in #practical on the Discord. Keep in mind that debugging RL is extraordinarily tricky even when you've direct access, so don't expect miracles from a stranger on the internet. It helps a lot if you can share a minimal example, describe the problem in detail, and explain how you've tried to fix it so far. The more detail you put into your question, the more likely you'll get an answer, and the more likely it'll be a good answer! 
 
 ## Things We Recommend
 These resources are things we have first-hand experience of and can testify to the quality of.
