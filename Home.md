@@ -44,6 +44,8 @@ These are ordered by length.
 
 If you go through these and you're still stuck, come ask for help in #practical on the Discord. Keep in mind that debugging RL is extraordinarily tricky even when you've direct access, so don't expect miracles! It helps a lot if you can share a minimal example, describe the problem in detail, and explain how you've tried to fix it so far. The more detail you put into your question, the more likely it'll be a good answer! 
 
+[RL Tips and Tricks](https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html) from Stable Baselines is also a good resource.
+
 ## Things We Recommend
 These resources are things we have first-hand experience of and can testify to the quality of.
 
