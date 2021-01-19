@@ -36,11 +36,11 @@ All of these cover roughly the same material, and all have roughly the same prer
 
 ## Debugging Advice
 These are ordered by length.
-* [Andy Jones's advice](https://andyljones.com/posts/rl-debugging.html)
 * [Amid Fish's advice](http://amid.fish/reproducing-deep-rl)
 * [John Schulman's advice](https://github.com/williamFalcon/DeepRLHacks)
 * [Spinning Up's advice](https://spinningup.openai.com/en/latest/spinningup/spinningup.html#learn-by-doing)
 * [Marcin Gumer's advice](https://www.reddit.com/r/reinforcementlearning/comments/9sh77q/what_are_your_best_tips_for_debugging_rl_problems/e8p2as5/)
+* [Andy Jones's advice](https://andyljones.com/posts/rl-debugging.html)
 
 If you go through these and you're still stuck, come ask for help in #practical on the Discord. Keep in mind that debugging RL is extraordinarily tricky even when you've direct access, so don't expect miracles! It helps a lot if you can share a minimal example, describe the problem in detail, and explain how you've tried to fix it so far. The more detail you put into your question, the more likely it'll be a good answer! 
 
