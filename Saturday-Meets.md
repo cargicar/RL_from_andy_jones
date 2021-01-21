@@ -1,3 +1,5 @@
+**These are suspended till we can find someone else to run them**
+
 We have a voice chat every Saturday at 1630 GMT. 
 
 ### Notes for attendees
