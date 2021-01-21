@@ -1,7 +1,5 @@
 This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhfNqQv).
 
-As well as this main page, there's also [details of our Saturday meets](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki/Saturday-Meets). 
-
 ## Content of this Wiki
 0. [First Steps](#first-steps)
 1. [Debugging Advice](#debugging-advice)
