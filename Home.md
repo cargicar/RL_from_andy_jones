@@ -65,17 +65,19 @@ If you've had a good experience with a resource, edit this page and increment th
  * 2👍 [TalkRL Podcast](https://www.talkrl.com/) is all about Reinforcement Learning
 
 ### Other Communities
- * Active 
+ * General RL 
    * [/r/reinforcementlearning](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community.
    * [Artificial Intelligence](https://discord.gg/gFCT9jm): an extremely large general AI discussion server, with an RL channel.
-   * [EleutherAI](https://discord.com/invite/vtRgjbM): language-model focussed, but a lot of good general AI safety and scaling discussion too.
-   * [TPU Podcast](https://t.co/ccHAqPgIiZ): GAN focussed, but a lot of good general ML discussion. Origin of the EleutherAI discord and project.
+   * [RL Group](https://discord.gg/2hz4kzK): previously the most active RL server, though now abandoned by the admin.
+   * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): another not-very-active RL discussion server, though apparently it has a busier private channel.
+ * Specialist RL
    * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
    * [L0](https://discord.gg/HYuf7GZKup) and [Lc0](https://discord.gg/aKkX2eSupu): the Discords for Leela Zero and Leela Chess Zero, two open-source AlphaZero adaptations.
    * [SC2 AI](https://discord.gg/Emm5Ztz): Discord for StarCraft 2 bot development.
- * Less-active
-   * [RL Group](https://discord.gg/2hz4kzK): previously the most active RL server, though now abandoned by the admin.
-   * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): another not-very-active RL discussion server, though apparently it has a busier private channel.
+ * General ML 
+   * [EleutherAI](https://discord.com/invite/vtRgjbM): language-model focussed, but a lot of good general AI safety and scaling discussion too.
+   * [TPU Podcast](https://t.co/ccHAqPgIiZ): GAN focussed, but a lot of good general ML discussion. Origin of the EleutherAI discord and project. 
+
 
 ## Things We Made
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
