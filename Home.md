@@ -64,6 +64,11 @@ If you've had a good experience with a resource, edit this page and increment th
  * 3👍 [RL Subreddit](https://www.reddit.com/r/reinforcementlearning/), the main hub for the RL community
  * 2👍 [TalkRL Podcast](https://www.talkrl.com/) is all about Reinforcement Learning
 
+### Frameworks and Libraries
+ * 1👍 [Stable Baselines in Pytorch](https://stable-baselines3.readthedocs.io/en/master/), a set of robust, reliable implementations of RL algorithms.
+ * 1👍 [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), a set of single-file implementations of basic RL algorithms.
+ * 1👍 [RLlib by Ray](https://docs.ray.io/en/master/rllib.html), one of the better attempts at plug-n-play distributed RL.
+
 ### Other Communities
  * General RL 
    * [/r/reinforcementlearning](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community.
@@ -108,7 +113,19 @@ This is a broad-strokes collection of things we've found in our journey through 
 ### Miscellaneous
  * [University of Alberta simple RL algorithm flow chart](https://cdn.discordapp.com/attachments/765294874832273422/768753225783836682/rl_algorithms_diagram.png)
 
+### RL Frameworks & Reference Implementations
+ * [OpenAI Baselines](https://github.com/openai/baselines)
+ * [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
+ * [SLM Lab: Modular Deep Reinforcement Learning framework in PyTorch](https://slm-lab.gitbook.io/slm-lab/)
+ * [Reinforcement Learning Coach](https://nervanasystems.github.io/coach/)
+ * [Framework for training, evaluating, and deploying robust trading agents](https://github.com/tensortrade-org/tensortrade)
+ * [RLBench: Robot Learning Benchmark](https://sites.google.com/view/rlbench)
+ * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
+ * [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning) of basic RL algorithms.
+
 ### RL Environments
+The [paperswithcode](https://www.paperswithcode.com/datasets?mod=environment) list is a good place to start.
+
  * [OpenAI Gym](https://gym.openai.com/)
  * [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents)
  * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym): Open-source implementations of OpenAI Gym MuJoCo environments
@@ -137,21 +154,3 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [List of environments and competitions for RL and AI training](https://github.com/dbobrenko/ai-learning-environments)
  * [Official OpenAI environments](https://github.com/openai/gym/blob/master/docs/environments.md), and third party environments
  * [Awesome RL environment list](https://github.com/clvrai/awesome-rl-envs)
-
-### RL Frameworks & Reference Implementations
- * [OpenAI Baselines](https://github.com/openai/baselines)
- * [Stable Baselines](https://stable-baselines.readthedocs.io/en/master/)
- * [Stable Baselines in Pytorch](https://stable-baselines3.readthedocs.io/en/master/)
- * [SLM Lab: Modular Deep Reinforcement Learning framework in PyTorch](https://slm-lab.gitbook.io/slm-lab/)
- * [Reinforcement Learning Coach](https://nervanasystems.github.io/coach/)
- * [Framework for training, evaluating, and deploying robust trading agents](https://github.com/tensortrade-org/tensortrade)
- * [RLBench: Robot Learning Benchmark](https://sites.google.com/view/rlbench)
- * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
- * [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning) of basic RL algorithms.
- * [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), single-file implementations of basic RL algorithms.
- * [RLlib by Ray](https://docs.ray.io/en/master/rllib.html)
-
-
-## TODO
- * Split resources into academic and applied if it gets too big
- * Still need a 'maths hub' to point to, as well as specific recommendations 
