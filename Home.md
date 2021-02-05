@@ -61,7 +61,6 @@ If you've had a good experience with a resource, edit this page and increment th
 
 ### Miscellaneous
  * 2👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
- * 3👍 [RL Subreddit](https://www.reddit.com/r/reinforcementlearning/), the main hub for the RL community
  * 2👍 [TalkRL Podcast](https://www.talkrl.com/) is all about Reinforcement Learning
 
 ### Frameworks and Libraries
@@ -75,8 +74,8 @@ If you've had a good experience with a resource, edit this page and increment th
    * [Artificial Intelligence](https://discord.gg/gFCT9jm): an extremely large general AI discussion server, with an RL channel.
    * [RL Group](https://discord.gg/2hz4kzK): previously the most active RL server, though now abandoned by the admin.
    * [International Reinforcement Learning Group](https://discord.gg/2Z98qcQ): another not-very-active RL discussion server, though apparently it has a busier private channel.
- * Specialist RL
    * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
+ * Specialist RL
    * [L0](https://discord.gg/HYuf7GZKup) and [Lc0](https://discord.gg/aKkX2eSupu): the Discords for Leela Zero and Leela Chess Zero, two open-source AlphaZero adaptations.
    * [SC2 AI](https://discord.gg/Emm5Ztz): Discord for StarCraft 2 bot development.
  * General ML 
