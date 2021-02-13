@@ -35,7 +35,7 @@ All of these cover roughly the same material, and all have roughly the same prer
 ## Debugging Advice
 * [Matthew Rahtz's advice](http://amid.fish/reproducing-deep-rl)
 * [John Schulman's advice](https://github.com/williamFalcon/DeepRLHacks)
-* [Joshua Achaim's advice](https://spinningup.openai.com/en/latest/spinningup/spinningup.html#learn-by-doing)
+* [Joshua Achiam's advice](https://spinningup.openai.com/en/latest/spinningup/spinningup.html#learn-by-doing)
 * [Marcin Gumer's advice](https://www.reddit.com/r/reinforcementlearning/comments/9sh77q/what_are_your_best_tips_for_debugging_rl_problems/e8p2as5/)
 * [Antonin Raffin's advice](https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html)
 * [Andy Jones's advice](https://andyljones.com/posts/rl-debugging.html)
@@ -48,23 +48,23 @@ These resources are things we have first-hand experience of and can testify to t
 If you've had a good experience with a resource, edit this page and increment the 👍. Feel free to move stuff from the things-we-found section up to here if you've personally had a good experience with it. If you're uncertain, come discuss it in #wiki first.
 
 ### Written Introductions
- * 3👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
- * 5👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](http://incompleteideas.net/book/RLbook2020.pdf) is the standard intro textbook.
+ * 4👍 [Spinning Up](https://spinningup.openai.com/) is somewhere between an extended tutorial and a short course, with a practical bent. 
+ * 6👍 [Sutton & Barto's *Introduction to Reinforcement Learning*](http://incompleteideas.net/book/RLbook2020.pdf) is the standard intro textbook.
  * 1👍 [Deep Reinforcement Learning Series](https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530) by [Jonathan Hui](https://medium.com/@jonathan_hui)
  * 1👍 [Algorithms for Decision Making](http://algorithmsbook.com/) by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray. Great introduction for RL. Lots of great resources on various subjects. 
 
 ### Video Introductions
- * 5👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
+ * 6👍 [Introduction to Reinforcement Learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB), with [slides](https://www.davidsilver.uk/teaching/)
  * 2👍 [Deep RL Course by Thomas Simonnini](https://simoninithomas.github.io/deep-rl-course/)
  * 2👍 [Reinforcement Learning Specialization on Coursera](https://www.coursera.org/specializations/reinforcement-learning) from Martha and David White, professors at UAlberta
    * Unlike all the other materials listed here, this is not free. Our opinions on paywalled courses are divided, so take this as a qualified recommendation - only go down this route if you have a strong preference for MOOC-style learning. If you don't, any of the other free material is just as good.
 
 ### Miscellaneous
- * 2👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
- * 2👍 [TalkRL Podcast](https://www.talkrl.com/) is all about Reinforcement Learning
+ * 3👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
+ * 3👍 [TalkRL Podcast](https://www.talkrl.com/) is all about Reinforcement Learning
 
 ### Frameworks and Libraries
- * 1👍 [Stable Baselines in Pytorch](https://stable-baselines3.readthedocs.io/en/master/), a set of robust, reliable implementations of RL algorithms.
+ * 2👍 [Stable Baselines in Pytorch (SB3)](https://stable-baselines3.readthedocs.io/en/master/), a set of robust, reliable implementations of RL algorithms.
  * 1👍 [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), a set of single-file implementations of basic RL algorithms.
  * 1👍 [RLlib by Ray](https://docs.ray.io/en/master/rllib.html), one of the better attempts at plug-n-play distributed RL.
 
