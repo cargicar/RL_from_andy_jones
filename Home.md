@@ -67,6 +67,7 @@ If you've had a good experience with a resource, edit this page and increment th
  * 2👍 [Stable Baselines in Pytorch (SB3)](https://stable-baselines3.readthedocs.io/en/master/), a set of robust, reliable implementations of RL algorithms.
  * 1👍 [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), a set of single-file implementations of basic RL algorithms.
  * 1👍 [RLlib by Ray](https://docs.ray.io/en/master/rllib.html), one of the better attempts at plug-n-play distributed RL.
+ * 1👍 [AI Traineree](https://github.com/laszukdawid/ai-traineree), simple implementations with agents/envs being independent.
 
 ### Other Communities
  * General RL 
