@@ -1,17 +1,30 @@
-**These are suspended till we can find someone else to run them**
+We have a voice chat every Saturday. Current time is 18:00 GMT / 13:00 EST / 10:00 PST.
 
-We have a voice chat every Saturday. Current time is 18:00 GMT / 13:00 EST / 10:00 PST. 
+Scheduled presentations are listed below.
 
-## Notes for attendees
- * Please switch yourself to push-to-talk, or mute yourself when you're not speaking.
+### Format
+Presentations usually last 10 -- 30 minutes followed by questions and discussion. Usually we're done in less than an hour, but people will often stay and discuss more.
+
+Typical format is a Discord screen share by the presenter. It isn't necessary a "presentation" with slides; there are demos with commentary, paper reviews with notes or simple discussions with pasted links.
+
+**Note**: Bare in mind that we are strangers on the internet who try to learn something from each other and have a general good time.
+
+### Notes for attendees
+
+ * Please switch yourself to **push-to-talk, or mute** yourself when you're not speaking.
  * Everyone's welcome to speak during the session, except when the presenter's speaking. 
- * There'll be time at the start to introduce yourself if you'd like. A good intro is where you are in the world and what you're working on. 
- * The presentation usually lasts 10-30 mins, and might involve screen sharing or content copy-pasted into the text channel. 
- * We usually type out commentary and questions in the text channel while the presenter's talking.
+ * Feel free to introduce yourself at the start. A good intro is where you are in the world and what you're working on. 
+ * We usually type out **commentary and questions** in the text channel while the presenter's talking.
  * There'll be questions at the end, followed by freeform discussion.
  * If you'd like to present in future, just say!
 
-### Notes for (potential) presenters
+### Notes for presenters
+
+* Please let us know whether we can interrupt with questions at any point, or should we wait until asked.
+* If you're answering a question from the channel, please say the question out loud so that everyone knows what you are referring to.
+
+### Should I present?
+
 If you're uneasy about giving talks, this is a great place to practice. Normal attendance is 10-20 people, questions are much more inquisitive than critical, it's voice only, and we've had a wide range of speakers in terms of technical experience. If you're casting around for a topic, a good choice is something you've been working on recently.
 
 ## Presentations
