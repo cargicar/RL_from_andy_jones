@@ -20,16 +20,16 @@ If you're uneasy about giving talks, this is a great place to practice. Normal a
 
 | Date | Presenter | Title |
 |------|-----------|-------|
-| 20/02/2020 | @hackeronsteriods | Journey in building Hearthstone bot|
+| 20/02/2020 | hackeronsteriods | Journey in building [Hearthstone](https://playhearthstone.com/) bot |
 
 ### Previous presentations
 | Date | Presenter | Title |
 |------|-----------|-------|
 |31/10/2020| andyljones | Scaling Laws in Multiplayer Games |
-|07/11/2020| Karolis_Ram | Competing in MineRL|
-|14/11/2020| -D- | RL & Climate Change Startups|
-|21/11/2020| Sphinx | Unsupervised Machine Translation.|
-|05/12/2020| Costa | DRL in RTS Games|
-|12/12/2020| Bam4d | Griddly: A platform for AI research in games |
-|02/01/2021| CireNeikual | Bio-Inspired Online RL|
-|14/02/2021| justinkterry | Petting Zoo: Multi-Agent Reinforcement Learning Environments|
+|07/11/2020| Karolis_Ram | Competing in MineRL |
+|14/11/2020| -D- | RL & Climate Change Startups |
+|21/11/2020| Sphinx | Unsupervised Machine Translation |
+|05/12/2020| Costa | DRL in RTS Games |
+|12/12/2020| Bam4d | [Griddly](https://griddly.readthedocs.io/en/latest/): A platform for AI research in games |
+|02/01/2021| CireNeikual | Bio-Inspired Online RL |
+|14/02/2021| justinkterry | [Petting Zoo](https://www.pettingzoo.ml/): Multi-Agent Reinforcement Learning Environments|
