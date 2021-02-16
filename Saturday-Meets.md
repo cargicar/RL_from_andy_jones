@@ -30,3 +30,4 @@ I'll try and keep this rolling one month in advance. If you see a slot free, you
 * 09/01/2021: Paper discussion (the exact paper is TBD)
 * 16/01/2021:
 * 23/01/2021:
+* 14/02/2021: justinkterry, Petting Zoo: Multi-Agent Reinforcement Learning Environments
