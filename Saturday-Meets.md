@@ -16,11 +16,16 @@ If you're uneasy about giving talks, this is a great place to practice. Normal a
 
 ## Presentations
 
+Would you like to present? Great! Feel free to add yourself to the table below, if the spot is available. Also, to minimize confusion, mention it in the channel so that others know :)
+
 ### Scheduled presentations
 
 | Date | Presenter | Title |
 |------|-----------|-------|
 | 20/02/2020 | hackeronsteriods | Journey in building [Hearthstone](https://playhearthstone.com/) bot |
+| 27/02/2020 | | |
+| 06/03/2020 | kretyn | Another service to run RL experiments. |
+| 13/03/2020 | | |
 
 ### Previous presentations
 | Date | Presenter | Title |
