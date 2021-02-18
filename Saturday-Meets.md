@@ -36,8 +36,8 @@ Would you like to present? Great! Feel free to add yourself to the table below, 
 | Date | Presenter | Title |
 |------|-----------|-------|
 | 20/02/2021 | hackeronsteriods | Journey in building [Hearthstone](https://playhearthstone.com/) bot |
-| 27/02/2021 | | |
-| 06/03/2021 | kretyn | Another service to run RL experiments. |
+| 27/02/2021 | Joseph Suarez | [Neural MMO](https://jsuarez5341.github.io/): A massively multiagent environment for emergent intelligence research |
+| 06/03/2021 | kretyn | Another service to run RL experiments |
 | 13/03/2021 | | |
 | 20/03/2021 | Boring Guy | [Masking in Deep Reinforcement Learning](https://boring-guy.sh/posts/masking-rl/) |
 
