@@ -25,7 +25,7 @@ Typical format is a Discord screen share by the presenter. It isn't necessary a 
 
 ### Should I present?
 
-If you're uneasy about giving talks, this is a great place to practice. Normal attendance is 10-20 people, questions are much more inquisitive than critical, it's voice only, and we've had a wide range of speakers in terms of technical experience. If you're casting around for a topic, a good choice is something you've been working on recently.
+If you're uneasy about giving talks, this is a great place to practice. Normal attendance is 10-40 people, questions are much more inquisitive than critical, it's voice only, and we've had a wide range of speakers in terms of technical experience. If you're casting around for a topic, a good choice is something you've been working on recently.
 
 ## Presentations
 
