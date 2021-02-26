@@ -79,7 +79,7 @@ If you've had a good experience with a resource, edit this page and increment th
  * Specialist RL
    * [L0](https://discord.gg/HYuf7GZKup) and [Lc0](https://discord.gg/aKkX2eSupu): the Discords for Leela Zero and Leela Chess Zero, two open-source AlphaZero adaptations.
    * [SC2 AI](https://discord.gg/Emm5Ztz): Discord for StarCraft 2 bot development.
-   * [DonkeyCar League](https://discord.com/channels/765294874832273419/766237789943103489/808297938505826315): a weekly friendly bot race league.
+   * [DonkeyCar League](https://discord.gg/gh7p9DKFYF): a weekly friendly bot race league.
  * General ML 
    * [EleutherAI](https://discord.com/invite/vtRgjbM): language-model focussed, but a lot of good general AI safety and scaling discussion too.
    * [TPU Podcast](https://t.co/ccHAqPgIiZ): GAN focussed, but a lot of good general ML discussion. Origin of the EleutherAI discord and project. 
