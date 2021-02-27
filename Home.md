@@ -121,6 +121,7 @@ This is a broad-strokes collection of things we've found in our journey through 
  * [RLBench: Robot Learning Benchmark](https://sites.google.com/view/rlbench)
  * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
  * [Denny Britz's implementations](https://github.com/dennybritz/reinforcement-learning) of basic RL algorithms.
+ * [Garage: A toolkit for evaluating meta-RL and multi-task agents](https://github.com/rlworkgroup/garage) 
 
 ### RL Environments
 The [paperswithcode](https://www.paperswithcode.com/datasets?mod=environment) list is a good place to start.
