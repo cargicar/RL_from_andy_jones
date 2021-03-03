@@ -35,20 +35,21 @@ Would you like to present? Great! Feel free to add yourself to the table below, 
 
 | Date | Presenter | Title |
 |------|-----------|-------|
-| 27/02/2021 | Joseph Suarez | [Neural MMO](https://jsuarez5341.github.io/): A massively multiagent environment for emergent intelligence research |
 | 06/03/2021 | kretyn | Another service to run RL experiments |
 | 13/03/2021 | | |
 | 20/03/2021 | Boring Guy | [Masking in Deep Reinforcement Learning](https://boring-guy.sh/posts/masking-rl/) |
+| 27/03/2021 | | |
 
 ### Previous presentations
 | Date | Presenter | Title |
 |------|-----------|-------|
-|31/10/2020| andyljones | Scaling Laws in Multiplayer Games |
-|07/11/2020| Karolis_Ram | Competing in MineRL |
-|14/11/2020| -D- | RL & Climate Change Startups |
-|21/11/2020| Sphinx | Unsupervised Machine Translation |
-|05/12/2020| Costa | DRL in RTS Games |
-|12/12/2020| Bam4d | [Griddly](https://griddly.readthedocs.io/en/latest/): A platform for AI research in games |
-|02/01/2021| CireNeikual | Bio-Inspired Online RL |
-|14/02/2021| justinkterry | [Petting Zoo](https://www.pettingzoo.ml/): Multi-Agent Reinforcement Learning Environments|
-|20/02/2021| hackeronsteriods | Journey in building [Hearthstone](https://playhearthstone.com/) bot |
+| 31/10/2020 | andyljones | Scaling Laws in Multiplayer Games |
+| 07/11/2020 | Karolis_Ram | Competing in MineRL |
+| 14/11/2020 | -D- | RL & Climate Change Startups |
+| 21/11/2020 | Sphinx | Unsupervised Machine Translation |
+| 05/12/2020 | Costa | DRL in RTS Games |
+| 12/12/2020 | Bam4d | [Griddly](https://griddly.readthedocs.io/en/latest/): A platform for AI research in games |
+| 02/01/2021 | CireNeikual | Bio-Inspired Online RL |
+| 14/02/2021 | justinkterry | [Petting Zoo](https://www.pettingzoo.ml/): Multi-Agent Reinforcement Learning Environments|
+| 20/02/2021 | hackeronsteriods | Journey in building [Hearthstone](https://playhearthstone.com/) bot |
+| 27/02/2021 | Joseph Suarez | [Neural MMO](https://jsuarez5341.github.io/): A massively multiagent environment for emergent intelligence research |
