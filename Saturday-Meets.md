@@ -37,7 +37,7 @@ Would you like to present? Great! Feel free to add yourself to the table below, 
 |------|-----------|-------|
 | 13/03/2021 | kretyn | Another service to run RL experiments |
 | 20/03/2021 | Boring Guy | [Masking in Deep Reinforcement Learning](https://boring-guy.sh/posts/masking-rl/) |
-| 27/03/2021 | sholto & tfrizza | Learning from Play with Robot Arms |
+| 27/03/2021 | sholto & tfrizza | [Learning from Play with Robot Arms](https://sholtodouglas.github.io/Learning-from-Play/) |
 
 ### Previous presentations
 | Date | Presenter | Title |
