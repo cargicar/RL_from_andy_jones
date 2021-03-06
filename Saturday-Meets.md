@@ -35,8 +35,7 @@ Would you like to present? Great! Feel free to add yourself to the table below, 
 
 | Date | Presenter | Title |
 |------|-----------|-------|
-| 06/03/2021 | kretyn | Another service to run RL experiments |
-| 13/03/2021 | | |
+| 13/03/2021 | kretyn | Another service to run RL experiments |
 | 20/03/2021 | Boring Guy | [Masking in Deep Reinforcement Learning](https://boring-guy.sh/posts/masking-rl/) |
 | 27/03/2021 | | |
 
