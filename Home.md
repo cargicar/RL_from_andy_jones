@@ -72,7 +72,7 @@ If you've had a good experience with a resource, edit this page and increment th
 ### Other Communities
  * General RL 
    * [/r/reinforcementlearning](https://www.reddit.com/r/reinforcementlearning/): the main hub for the RL community.
-   * [Artificial Intelligence](https://discord.gg/gFCT9jm): an extremely large general AI discussion server, with an RL channel.
+   * [Artificial Intelligence](https://discord.gg/dBKFbyc): an extremely large general AI discussion server, with an RL channel.
    * [ODS.ai](https://ods.ai/): their Slack has an active Russian-language community.
  * Specialist RL
    * [L0](https://discord.gg/HYuf7GZKup) and [Lc0](https://discord.gg/aKkX2eSupu): the Discords for Leela Zero and Leela Chess Zero, two open-source AlphaZero adaptations.
