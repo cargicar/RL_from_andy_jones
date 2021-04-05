@@ -40,6 +40,7 @@ All of these cover roughly the same material, and all have roughly the same prer
 * [Marcin Gumer's advice](https://www.reddit.com/r/reinforcementlearning/comments/9sh77q/what_are_your_best_tips_for_debugging_rl_problems/e8p2as5/)
 * [Antonin Raffin's advice](https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html)
 * [Clemens Winter's advice](https://clemenswinter.com/2021/03/24/my-reinforcement-learning-learnings/)
+* [Nato Lambert's advice](https://www.natolambert.com/writing/debugging-mbrl) on model-based RL debugging
 
 If you go through these and you're still stuck, come ask for help in #practical on the Discord. Keep in mind that debugging RL is extraordinarily tricky even when you've direct access, so don't expect miracles! It helps a lot if you can share a minimal example, describe the problem in detail, and explain how you've tried to fix it so far. The more detail you put into your question, the more likely it'll be a good answer! 
 
