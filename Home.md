@@ -83,7 +83,7 @@ If you've had a good experience with a resource, edit this page and increment th
  * General ML 
    * [EleutherAI](https://discord.com/invite/vtRgjbM): language-model focussed, but a lot of good general AI safety and scaling discussion too.
    * [TPU Podcast](https://t.co/ccHAqPgIiZ): GAN focussed, but a lot of good general ML discussion. Origin of the EleutherAI discord and project. 
-
+   * [ML Collective](https://discord.gg/B8rVXGy3Vj): More general than the others mentioned so far, while still explicitly research-focussed. 
 
 ## Things We Made
 These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
