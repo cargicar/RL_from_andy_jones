@@ -3,20 +3,18 @@ This is the wiki for the [reinforcement learning Discord](https://discord.gg/xhf
 ## Contents
 0. [First Steps](#first-steps)
 1. [Debugging Advice](#debugging-advice)
-1. [Things We Recommend](#things-we-recommend)
+2. [Recommended Resources](#recommended-resources)
    - [Written Introductions](#written-introductions)
    - [Lecture Videos](#lecture-videos)
    - [Blogs](#blogs)
    - [Miscellaneous](#miscellaneous)
-2. [Things We Made](#things-we-made)
-3. [Things We Found](#things-we-found)
+3. [Links](#links)
    - [Lecture Videos](#lecture-videos-1)
    - [Blogs](#blogs-1)
    - [Other Communities](#other-communities)
    - [Miscellaneous](#miscellaneous-1)
    - [RL Environments](#rl-environments)
    - [RL Frameworks & Reference Implementations](#rl-frameworks--reference-implementations)
-4. [Future considerations](#future-considerations)
 
 ## First Steps
 **If you're entirely new to reinforcement learning**, the best thing to do is to poke through the resources listed in [Written Introductions](#written-introductions) and [Video Introductions](#video-introductions) and see which ones suit your learning style.
@@ -44,7 +42,7 @@ All of these cover roughly the same material, and all have roughly the same prer
 
 If you go through these and you're still stuck, come ask for help in #practical on the Discord. Keep in mind that debugging RL is extraordinarily tricky even when you've direct access, so don't expect miracles! It helps a lot if you can share a minimal example, describe the problem in detail, and explain how you've tried to fix it so far. The more detail you put into your question, the more likely it'll be a good answer! 
 
-## Things We Recommend
+## Recommended Resources
 These resources are things we have first-hand experience of and can testify to the quality of.
 
 If you've had a good experience with a resource, edit this page and increment the 👍. Feel free to move stuff from the things-we-found section up to here if you've personally had a good experience with it. If you're uncertain, come discuss it in #wiki first.
@@ -85,18 +83,8 @@ If you've had a good experience with a resource, edit this page and increment th
    * [TPU Podcast](https://t.co/ccHAqPgIiZ): GAN focussed, but a lot of good general ML discussion. Origin of the EleutherAI discord and project. 
    * [ML Collective](https://discord.gg/B8rVXGy3Vj): More general than the others mentioned so far, while still explicitly research-focussed. 
 
-## Things We Made
-These resources have been *written* by people on our Discord. The advantage of these resources is that you can ask the author questions about them! 
-
-* [RL Lib](https://github.com/DarylRodrigo/rl_lib), by @-D-
-* [BootlegAlphaZero](https://github.com/instance01/BootlegAlphaZero/), by @aylmao
-* [Hindsight Experience Replay research](https://github.com/jscriptcoder/Hindsight-Experience-Replay), and [article](https://medium.com/@jscriptcoder/yet-another-hindsight-experience-replay-backstory-4285c43ff168), by @fran
-* [Upside-Down RL research](https://github.com/jscriptcoder/Upside-Down-Reinforcement-Learning), and [article](https://medium.com/@jscriptcoder/demystifying-upside-down-reinforcement-learning-a-k-a-%EA%93%A4-b7bd4214b33f), by @fran
-* [GraBZero](https://github.com/instance01/GRAB0/), by @aylmao
-* [Open RL Benchmark](http://cleanrl.costa.sh/), and [Gym-MicroRTS](https://github.com/vwxyzjn/gym-microrts) by @Costa
-
-## Things We Found
-This is a broad-strokes collection of things we've found in our journey through RL that we think might be useful to others. It is much more lightly curated than the other sections.
+## Links
+This is a broad-strokes collection of things we've found in our around the internet that we think might be useful to others. It is much more lightly curated than the section above.
 
 ### Lecture Videos
  * [Reinforcement Learning Course | DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
