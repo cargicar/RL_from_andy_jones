@@ -35,6 +35,7 @@ Would you like to present? Great! Feel free to add yourself to the table below, 
 
 | Date | Presenter | Title |
 |------|-----------|-------|
+| 01/05/2021 | Costa | [Open RL Benchmark 0.5.0 by CleanRL](http://benchmark.cleanrl.dev/)
 | 20/03/2021 | sholto & tfrizza | [Learning Robotic Manipulation from Play](https://sholtodouglas.github.io/Learning-from-Play/) |
 | ? 27/03/2021 | Boring Guy | [Masking in Deep Reinforcement Learning](https://boring-guy.sh/posts/masking-rl/) |
 
