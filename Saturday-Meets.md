@@ -35,7 +35,7 @@ Would you like to present? Great! Feel free to add yourself to the table below, 
 
 | Date | Presenter | Title |
 |------|-----------|-------|
-| 08/05/2021 | Philip Ball  | [Ready Policy One: World Building Through Active Learning](http://proceedings.mlr.press/v119/ball20a.html)
+| 08/05/2021 | Philip J. Ball  | [Ready Policy One: World Building Through Active Learning](http://proceedings.mlr.press/v119/ball20a.html)
 
 ### Previous presentations
 | Date | Presenter | Title |
