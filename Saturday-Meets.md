@@ -35,13 +35,12 @@ Would you like to present? Great! Feel free to add yourself to the table below, 
 
 | Date | Presenter | Title |
 |------|-----------|-------|
-| 01/05/2021 | Costa | [Open RL Benchmark 0.5.0 by CleanRL](http://benchmark.cleanrl.dev/)
-
-| ? 27/03/2021 | Boring Guy | [Masking in Deep Reinforcement Learning](https://boring-guy.sh/posts/masking-rl/) |
+| 08/05/2021 | Philip Ball  | [Ready Policy One: World Building Through Active Learning](http://proceedings.mlr.press/v119/ball20a.html)
 
 ### Previous presentations
 | Date | Presenter | Title |
 |------|-----------|-------|
+| 01/05/2021 | Costa | [Open RL Benchmark 0.5.0 by CleanRL](http://benchmark.cleanrl.dev/)
 | 20/03/2021 | sholto & tfrizza | [Learning Robotic Manipulation from Play](https://sholtodouglas.github.io/Learning-from-Play/) |
 | 13/03/2021 | dawid | [Agents Bar](https://agents.bar): A platform to run RL agents online |
 | 27/02/2021 | Joseph Suarez | [Neural MMO](https://jsuarez5341.github.io/): A massively multiagent environment for emergent intelligence research |
