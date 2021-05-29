@@ -35,11 +35,11 @@ Would you like to present? Great! Feel free to add yourself to the table below, 
 
 | Date | Presenter | Title |
 |------|-----------|-------|
-| 05/05/2021 | Christopher Bamford | [Generalising Discrete Action Spaces with Conditional Action Trees](https://arxiv.org/abs/2104.07294)
 
 ### Previous presentations
 | Date | Presenter | Title |
 |------|-----------|-------|
+| 29/05/2021 | Christopher Bamford | [Generalising Discrete Action Spaces with Conditional Action Trees](https://arxiv.org/abs/2104.07294)
 | 08/05/2021 | Philip J. Ball  | [Ready Policy One: World Building Through Active Learning](http://proceedings.mlr.press/v119/ball20a.html)
 | 01/05/2021 | Costa | [Open RL Benchmark 0.5.0 by CleanRL](http://benchmark.cleanrl.dev/)
 | 20/03/2021 | sholto & tfrizza | [Learning Robotic Manipulation from Play](https://sholtodouglas.github.io/Learning-from-Play/) |
