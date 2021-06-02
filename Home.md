@@ -62,11 +62,12 @@ If you've had a good experience with a resource, edit this page and increment th
 ### Miscellaneous
  * 3👍 [Lilian Weng's Blog on RL](https://lilianweng.github.io/lil-log/tag/reinforcement-learning), a *phenomenal* set of survey posts on different areas of RL.
  * 3👍 [TalkRL Podcast](https://www.talkrl.com/) is all about Reinforcement Learning
+ * 1👍 [Jordi Torres's article series](https://torres.ai/deep-reinforcement-learning-explained-series/), a very beginner friendly take on introduction to deep-rl.
 
 ### Frameworks and Libraries
  * 2👍 [Stable Baselines in Pytorch (SB3)](https://stable-baselines3.readthedocs.io/en/master/), a set of robust, reliable implementations of RL algorithms.
+ * 2👍 [RLlib by Ray](https://docs.ray.io/en/master/rllib.html), one of the better attempts at plug-n-play distributed RL.
  * 1👍 [CleanRL](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl), a set of single-file implementations of basic RL algorithms.
- * 1👍 [RLlib by Ray](https://docs.ray.io/en/master/rllib.html), one of the better attempts at plug-n-play distributed RL.
  * 1👍 [AI Traineree](https://github.com/laszukdawid/ai-traineree), simple implementations with agents/envs being independent.
 
 ### Other Communities
@@ -88,6 +89,7 @@ This is a broad-strokes collection of things we've found in our around the inter
 
 ### Lecture Videos
  * [Reinforcement Learning Course | DeepMind & UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+ * [CS188@berkeley - Intro to AI (Weeks 3, 4 and 5 for Intro to MDPs and RL)](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
  * [CS285@berkeley - Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
  * [CS234@stanford - Reinforcement Learning Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
  * [Deep RL Bootcamp 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
